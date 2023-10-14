@@ -1,0 +1,21 @@
+.sectionone{
+  background: linear-gradient(74.71deg, #FEDDEE 0%, #FCF6FC 31.77%, #C5EAED 64.58%, #FDDDFE 100%);
+}
+/* styles.css */
+.text-gradient {
+  background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(to right, rgba(0, 118, 206, 1), rgba(148, 0, 211, 1));
+}
+.tag{
+  background: linear-gradient(to right, rgba(0, 118, 206, 1), rgba(148, 0, 211, 1));
+ 
+}
+.footer{
+  background: linear-gradient(95.74deg, #0076CE -7.82%, #9400D3 143.96%);
+}
+.white-hr{
+  border: 0;
+  height: 1px;
+  background-color: #ffffff; /* White color */
+}
